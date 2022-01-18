@@ -1,0 +1,6 @@
+tools/config.ini
+tests
+*.egg-info
+*.shizu
+*__pycache__
+*.vscode
